@@ -43,11 +43,6 @@ def test():
         print("Please, try again.")
         answer = int(input())
     print('Completed, have a nice day!')
-    #if answer == 2:
-     #   print('Completed, have a nice day!')
-    #else:
-    #    print("Please, try again.")
-    #print('Completed, have a nice day!')
 
 
 def end():
